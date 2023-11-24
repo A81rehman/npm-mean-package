@@ -1,0 +1,26 @@
+{
+  "name": "a-rehman-mean",
+  "version": "1.0.0",
+  "description": "This is the npm package for calculating the mean for series of values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A81rehman/npm-mean-package.git"
+  },
+  "keywords": [
+    "Arithmetic",
+    "mean"
+  ],
+  "author": "Abdulrehman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A81rehman/npm-mean-package/issues"
+  },
+  "homepage": "https://github.com/A81rehman/npm-mean-package#readme",
+  "dependencies": {
+    "a-rehman-mean": "^1.0.0"
+  }
+}
